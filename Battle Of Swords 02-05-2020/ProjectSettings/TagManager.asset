@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Screen
+  - SE2
+  - swordEnemy
+  - SE1
+  - NetworkManager
+  - Enemy3
+  - SP4
+  - swordEnemy2
+  - SP1
+  - SP2
+  - SP3
+  - SE3
+  - Enemy2
+  - swordEnemy1
+  - WanderdBot
+  - Friendly2
+  - swordPlayer
+  - Friendly3
+  - SoliderEnemy1
+  - Friendly
+  - SoliderEnemy
+  - Friendly1
+  - SoliderEnemy2
+  - swordPSolider2
+  - swordPSolider3
+  - swordEsolider1
+  - swordPSolider
+  - swordEsolider
+  - swordPSolider1
+  - swordEsolider2
+  - AttackButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - screen
+  - PostProcessing
+  - Ground
+  - Player
+  - Friendly
+  - Friendly1
+  - Friendly2
+  - Friendly3
+  - Enemy
+  - Enemy2
+  - Enemy3
+  - SoliderEnemy
+  - SoliderEnemy1
+  - SoliderEnemy2
+  - WanderdBots
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
